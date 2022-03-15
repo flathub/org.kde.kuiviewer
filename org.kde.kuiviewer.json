@@ -20,7 +20,14 @@
                 {
                     "type": "archive",
                     "url": "https://download.kde.org/stable/release-service/21.12.3/src/kde-dev-utils-21.12.3.tar.xz",
-                    "sha256": "d9878507dc4da74d8aef978957a851069a4cbdad19a05207fc8abfd87ed9b8c9"
+                    "sha256": "d9878507dc4da74d8aef978957a851069a4cbdad19a05207fc8abfd87ed9b8c9",
+                    "x-checker-data": {
+                        "type": "anitya",
+                        "project-id": 8763,
+                        "stable-only": true,
+                        "url-template": "https://download.kde.org/stable/release-service/$version/src/kde-dev-utils-$version.tar.xz"
+                    }
+                    
                 },
                 {
                     "type": "patch",
