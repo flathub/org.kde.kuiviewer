@@ -11,7 +11,6 @@
         "--socket=fallback-x11",
         "--socket=wayland"
     ],
-
     "modules": [
         {
             "name": "kuiviewer",
@@ -19,15 +18,14 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/21.12.3/src/kde-dev-utils-21.12.3.tar.xz",
-                    "sha256": "d9878507dc4da74d8aef978957a851069a4cbdad19a05207fc8abfd87ed9b8c9",
+                    "url": "https://download.kde.org/stable/release-service/22.04.0/src/kde-dev-utils-22.04.0.tar.xz",
+                    "sha256": "77ba3b06008d51dad7134122ad583398fbc2667e5a861c8af9664181b84a9189",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/release-service/$version/src/kde-dev-utils-$version.tar.xz"
                     }
-                    
                 },
                 {
                     "type": "patch",
