@@ -18,8 +18,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.12.0/src/kde-dev-utils-22.12.0.tar.xz",
-                    "sha256": "a3c2b22e5a6ddd017728ebcda40434e115950d2d923ead98a54656a2dbd002b6",
+                    "url": "https://download.kde.org/stable/release-service/22.12.1/src/kde-dev-utils-22.12.1.tar.xz",
+                    "sha256": "dabbb21969bbf8816b4e055cd5a1d1dd2a7bf2d76e993d122ca5c6467efc696e",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
