@@ -18,8 +18,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/26.04.2/src/kde-dev-utils-26.04.2.tar.xz",
-                    "sha256": "f499a676b165eebcc38448ad85f819911c1f462d4f69bc1ea73438095a362010",
+                    "url": "https://download.kde.org/stable/release-service/26.04.3/src/kde-dev-utils-26.04.3.tar.xz",
+                    "sha256": "fd03e4a4e9749206053d81b71d3a3b47081df3c570cb8ec4f4bf18e8eb28a2d6",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
